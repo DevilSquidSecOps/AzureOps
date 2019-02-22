@@ -1,0 +1,9 @@
+# First Time Setup of a new AAD(Azure Active Directory)
+* You need to setup a Subscription applied to an Azure Active Directory Resource
+
+**Creating A new Azure AD Resource**
+Sign in > "Create a resource" > "Identity" > "Azure Active Directory"
+
+**Apply a Subscription**
+* If you have already have a subscription and it is applied to a different resource you can't fully manage you can re-apply it
+Cost Management > Billing > Subscriptions > 
